@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I+am+Ebenezer+Rao!😀;Thanks+for+the+Visit🙂" />
 </h1>
 
-<h3 align="center">A Passionate Coder and Learner from India :)</h3>
+<h3 align="center">A Passionate Coder and Learner :)</h3>
 
 <br/>
 
