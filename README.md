@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,c,cpp,mysql,flutter,androidstudio,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,react,c,cpp,mysql,flutter,androidstudio,photoshop,canva,figma" /><br>
 </div>
 
 <br/>
