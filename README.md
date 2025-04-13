@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,react,tailwindcss,c,cpp,mysql,flutter,androidstudio,photoshop,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=,python,html,css,javascript,react,tailwindcss,expressjs,mongodb,nodejs,c,cpp,mysql,androidstudio,photoshop,figma" /><br>
 </div>
 
 <br/>
