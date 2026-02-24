@@ -1,55 +1,50 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EbenezerRao.EbenezerRao" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EbenezerRao.EbenezerRao" />
+</div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=55&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I+am+Ebenezer+Rao!😀;Thanks+for+the+Visit🙂" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=45&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Ebenezer+Rao!;Software+Engineer+%26+Architect;Google+Ambassador+%7C+GDG+Organizer;Open+Source+Contributor" />
 </h1>
 
-<h3 align="center">A Passionate Coder and Learner :)</h3>
+<h3 align="center">Building scalable systems, mobile architectures, and tech communities.</h3>
 
 <br/>
 
 <div align="center">
 
- 😃 Hi, you can call me Ebby also.🙃
- 
- 💬 Fellow enthusiastic coder who also plays football and chess.♟️
+💻 **Currently Engineering:** Mobile apps and web platforms using **React Native** and the **MERN** stack, backed by robust relational databases.
 
- 🔭 I’m interested in coding,development and a little bit of everything.😅
- 
- 🌱 I’m currently learning Android Development and Full Stack Development.🖥️
+🌍 **Community & Open Source:** Interning remotely with the **OKI WikiMedia Foundation** and building the local tech ecosystem as a **Google Ambassador** and **GDG Organizer** in Prayagraj.
 
- 💞️ I’m looking to collaborate on open contributions🤗
+⚙️ **Current Focus:** Deep diving into Advanced PostgreSQL, Systems Architecture, and integrating AI/ML models into production environments.
 
- 😁 Open source contributor✌️
+🤝 **Let's Collaborate:** Always open to contributing to impactful open-source projects, discussing database optimization, or brainstorming the next big AI integration.
 
- ⚡ Did you know? GitHub was created in 2008 and has since become the largest host of source code in the world, with over 100 million repositories as of 2021!😋
+♟️ **Off-Screen:** When I'm not optimizing queries or organizing tech summits, you'll find me playing football or analyzing chess lines.
 
 </div>
  
+<br/>
+
 <div align="center"> 
   <a href="mailto:ebenezerrao3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ebenezer-rao-7b229b305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ebby_duhh/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blank"/>
-</a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
- <hr/>
+<hr/>
  
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,nextjs,react,tailwindcss,expressjs,mongodb,mysql,postgresql,sql,nodejs,photoshop,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,mongodb,postgres,mysql,python,cpp,c,linux,git,github,photoshop,figma" />
 </div>
 
 <br/>
 <hr/>
-
-<!---
-EbenezerRao/EbenezerRao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
