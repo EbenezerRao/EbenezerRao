@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=45&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Ebenezer+Rao!;Software+Engineer+%26+Architect;Google+Ambassador+%7C+GDG+Organizer;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=45&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Ebenezer+Rao!;Software+Engineer+%26+Architect;Google+Ambassador+%7C+FOSS+Admin;Open+Source+Contributor" />
 </h1>
 
 <h3 align="center">Building scalable systems, mobile architectures, and tech communities.</h3>
