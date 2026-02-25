@@ -14,7 +14,7 @@
 
 💻 **Currently Engineering:** Mobile apps and web platforms using **React Native** and the **MERN** stack, backed by robust relational databases.
 
-🌍 **Community & Open Source:** Interning remotely with the **OKI WikiMedia Foundation** and building the local tech ecosystem as a **Google Ambassador** and **GDG Organizer** in Prayagraj.
+🌍 **Community & Open Source:** Interning remotely with the **OKI WikiMedia Foundation** and building the local tech ecosystem as a **Google Ambassador** and **FOSS Admin** in Prayagraj.
 
 ⚙️ **Current Focus:** Deep diving into Advanced PostgreSQL, Systems Architecture, and integrating AI/ML models into production environments.
 
