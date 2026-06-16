@@ -43,7 +43,7 @@
 <h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,js,nodejs,express,mongodb,postgres,mysql,python,cpp,c,linux,git,github,photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,nextjs,js,nodejs,express,mongodb,postgres,mysql,python,fastapi,cpp,c,linux,git,github,photoshop,figma" />
 </div>
 
 <br/>
